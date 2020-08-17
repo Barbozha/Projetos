@@ -1,3 +1,17 @@
 tiny png - é O site para tratamento de imagens
+
 Hostgator.com.br - hospedagem de sites
+
+Ver google fonts - Fontes a serem utilizados na pagina
+
+faicons (fontawesome.com) - link Get Started 
+cdnjs.com/libraries/font-awesome (são ícones facebook, twiter..)
+
+favicon - são icones que aparecerao sua página local title
+www.favicon.io
+
+
+
+
+
 
